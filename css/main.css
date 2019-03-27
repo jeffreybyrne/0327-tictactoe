@@ -7,3 +7,11 @@
 .square {
   border: 1px solid black;
 }
+
+.o {
+  background-color: red;
+}
+
+.x {
+  background-color: blue;
+}
